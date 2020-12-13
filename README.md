@@ -39,7 +39,7 @@ In Back-End, we should use:
 
 [Designed Webpage](../Website Designing.html)
 
-[Simple WebPage](../webpage1.html)
+[Simple WebPage](../WebPage1.html)
 
 #### Designed by Mahesh Muttinti
 
