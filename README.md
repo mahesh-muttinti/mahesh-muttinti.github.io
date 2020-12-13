@@ -39,6 +39,8 @@ In Back-End, we should use:
 
 [Designed Webpage](../Website Designing.html)
 
+[Simple WebPage](../WebPage1.html)
+
 #### Designed by Mahesh Muttinti
 
 ###### Hosted by github
