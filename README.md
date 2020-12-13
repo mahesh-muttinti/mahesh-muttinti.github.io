@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Full Stack Web Development
 
-You can use the [editor on GitHub](https://github.com/mahesh-muttinti/mahesh-muttinti.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### There are several stacks to Full stack development
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Let me consider MERN Stack because i choose that Stack for Web Development
 
-### Markdown
+# MERN Stack refers to:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **M** For MongoDB
+- **E** For Express Js
+- **R** For React Js
+- **N** For Node Js
 
-```markdown
-Syntax highlighted code block
+In any Full Stack Development is a combination of **Front-End Development** and **Back-End Development**
 
-# Header 1
-## Header 2
-### Header 3
+## Front-End Development
 
-- Bulleted
-- List
+Front-End Development is nothing but what the user can see on website or web application.
 
-1. Numbered
-2. List
+In Front-End, we should use:
 
-**Bold** and _Italic_ and `Code` text
+1. HTML
+2. CSS
+3. Javascript
+4. Bootstrap
+5. React JS
 
-[Link](url) and ![Image](src)
-```
+## Back-End Development
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Back-End Development is totally server side programming to handle the data from the user and get and post the data from database.
 
-### Jekyll Themes
+In Back-End, we should use:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mahesh-muttinti/mahesh-muttinti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Node Js
+2. Express Js
+3. MongoDB
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Designed by Mahesh Muttinti
+
+###### Hosted by github
+
+Thank You All.
