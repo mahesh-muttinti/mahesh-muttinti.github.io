@@ -5,9 +5,9 @@ window.onload = () => {
         ul = $('ul')
     menu.addEventListener('click', (e) => {
         if(ul.style.display == 'block') {
-            alert('none')
+            ul.style.display = "none"
         } else {
-            alert('block')
+            ul.style.display = "block"
         }
     })
 }
