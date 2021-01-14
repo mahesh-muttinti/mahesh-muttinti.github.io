@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Full Stack Web Development
 
 ### There are several stacks to Full stack development
