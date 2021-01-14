@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## Full Stack Web Development
 
