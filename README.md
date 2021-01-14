@@ -36,12 +36,6 @@ In Back-End, we should use:
 2. Express Js
 3. MongoDB
 
-**My other Pages**
-
-[Designed Webpage](../Website Designing1.html)
-
-[Simple WebPage](../WebPage1.html)
-
 #### Designed by Mahesh Muttinti
 
 ###### Hosted by github
